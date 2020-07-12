@@ -1,5 +1,7 @@
 # CWS
 
+More info can be found at [Blog page](https://wu-jingcheng.github.io/articles/2020/07/12/1594534048569.html)
+
 ## File and data
 Downlaod data.zip from [here](https://drive.google.com/file/d/0B-f0oKMQIe6sQVNxeE9JeUJfQ0k/view) (Note that the SIGHAN datasets should only be used for research purposes).
 
